@@ -140,12 +140,13 @@ This modeling approach reflects how enterprise healthcare organizations structur
 ## 📂 Repository Structure
 
 /sql
-├── schema_creation.sql
-├── fact_dimension_tables.sql
-├── business_queries.sql
+├─ schema_creation.sql
+├─ fact_dimension_tables.sql
+├─ business_queries.sql
 
 /docs
-├── ERD_diagram.png
+├─ ERD_schema.pdf (image)
+├─ Documentation.pdf
 
 ## 💡 Summary
 
