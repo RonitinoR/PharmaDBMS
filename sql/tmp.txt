@@ -1,0 +1,1 @@
+This folder contains the sql dimensional modeling, schema alingment and sql query transformation
