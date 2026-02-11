@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![Modeling](https://img.shields.io/badge/Model-Star%20Schema-green)
+![Domain](https://img.shields.io/badge/Domain-Healthcare-orange)
+
 # Healthcare Claims Data Warehouse – Dimensional Modeling Project
 
 ## 📌 Project Overview
